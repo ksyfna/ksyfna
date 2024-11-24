@@ -7,9 +7,6 @@
 - 📫 How to reach me **nurainasyafina@graduate.utm.my**
 
 <p align="left">
-  <a href="https://github.com/ksyfna" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a> 
   <a href="https://www.linkedin.com/in/nur-aina-syafina-097a1831a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
   </a> 
