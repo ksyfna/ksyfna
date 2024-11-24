@@ -10,10 +10,9 @@
   <a href="https://www.linkedin.com/in/nur-aina-syafina-097a1831a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
   </a> 
-  <a href="https://www.instagram.com/ksyfna?igsh=djI3eGwydzdyczVt" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
-  </a>
+  <a href="https://www.instagram.com/ksyfna?igsh=djI3eGwydzdyczVt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ksyfna?igsh=dji3egwydzdyczvt" height="30" width="40" /></a>
 </p>
+
 
 
 <h3 align="left">Programming Languages:</h3>
