@@ -1,7 +1,7 @@
 <h1 align="center"> 👋It's me, Syafina</h1>
 <h3 align="center"> A passionate coder who thrives in the digital world. </h3>
 
-<p align="right" alt="Coding" width="80"> <img src="https://media1.tenor.com/images/61b05acdfac92da50c9d297b209b717f/tenor.gif?itemid=16210141">
+<p align="center" alt="Coding" width="80"> <img src="https://media1.tenor.com/images/61b05acdfac92da50c9d297b209b717f/tenor.gif?itemid=16210141">
 
 - 🔭 I’m currently enrolled in **Bachelor of Computer Science (Bioinformatics) with Honours**
 
