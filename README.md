@@ -57,15 +57,7 @@
 - 🌱 Sustainable tech and ethical computing  
 - 🎨 UI/UX design principles for accessibility  
 - 🤖 AI and machine learning in healthcare
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aina-syafina&show_icons=true&theme=calm" alt="Syafina's GitHub Stats"/>
-</p>
-
+  
 ---
 
 ## 🌐 Let's Connect!
