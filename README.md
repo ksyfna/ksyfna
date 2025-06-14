@@ -80,4 +80,4 @@
 <p align="center">
   <img src="https://media.tenor.com/XbLoU0MaPb8AAAAM/thank-you-cat.gif" alt="Thank You Cat" width="200"/>
 </p>
-<p align="center"><strong>Thank you for visiting </> let's build the future together! 🚀</strong></p>
+<p align="center"><strong>Thank you for visiting, let's build the future together! 🚀</strong></p>
