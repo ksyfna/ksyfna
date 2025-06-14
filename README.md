@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Nur Aina Syafina</h1>
-<h3 align="center">Aspiring Bioinformatics Software Developer | Tech-Enthusiast | Cat-Lover 🐾</h3>
+<h3 align="center">Aspiring Bioinformatics Software Developer | Tech-Enthusiast </h3>
 
 <p align="center">
   <img src="https://media1.tenor.com/images/61b05acdfac92da50c9d297b209b717f/tenor.gif?itemid=16210141" alt="Coding Cat" width="250"/>
