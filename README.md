@@ -44,22 +44,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
+### 🔬 Bioinformatics Tools & Libraries  
+BLAST, Biopython, Clustal Omega, NCBI Tools, UCSC Genome Browser, RStudio
+
 ### 🛠️ Version Control
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
-**Languages & Scripting:**  
-`Python` | `R` | `JavaScript` | `HTML/CSS` | `SQL` | `Java`
-
-**Bioinformatics & Data Tools:**  
-`Biopython` | `BLAST` | `NCBI tools` | `Clustal Omega` | `RStudio` | `Jupyter Notebooks`
-
-**Web & App Dev:**  
-`React` | `Firebase` | `Figma` | `PHP` | `Arduino`
-
-**Soft Skills:**  
-Teamwork 💬 | Research 🧠 | UX Thinking 💡 | Communication 🗣️
 
 ---
 
