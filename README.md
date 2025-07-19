@@ -44,33 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-### 🔬 Bioinformatics Tools & Libraries  
-<p>
-  <a href="https://biopython.org/" target="_blank">
-    <img src="https://biopython.org/assets/images/biopython_logo.svg" alt="Biopython" width="40" height="40"/>
-  </a>
-  <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank">
-    <img src="https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/blast-logo.png" alt="BLAST" width="40" height="40"/>
-  </a>
-  <a href="https://www.ebi.ac.uk/Tools/msa/clustalo/" target="_blank">
-    <img src="https://www.ebi.ac.uk/web_guidelines/images/logos/EMBL-EBI_Logo_blue.svg" alt="Clustal Omega" width="40" height="40"/>
-  </a>
-  <a href="https://usegalaxy.org/" target="_blank">
-    <img src="https://galaxyproject.org/images/logos/galaxy-icon.png" alt="Galaxy" width="40" height="40"/>
-  </a>
-  <a href="https://www.ensembl.org/" target="_blank">
-    <img src="https://www.ensembl.org/i/ensembl-favicon.ico" alt="Ensembl" width="40" height="40"/>
-  </a>
-  <a href="https://genome.ucsc.edu/" target="_blank">
-    <img src="https://genome.ucsc.edu/images/ucscHelixIcon.png" alt="UCSC Genome Browser" width="40" height="40"/>
-  </a>
-  <a href="https://software.broadinstitute.org/software/igv/" target="_blank">
-    <img src="https://software.broadinstitute.org/software/igv/images/igv_logo.svg" alt="IGV" width="40" height="40"/>
-  </a>
-  <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" target="_blank">
-    <img src="https://www.bioinformatics.babraham.ac.uk/images/favicon.ico" alt="FastQC" width="40" height="40"/>
-  </a>
-</p>
 
 ### 🛠️ Version Control
 <p>
