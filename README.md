@@ -9,9 +9,9 @@
 
 ## 👩‍💻 About Me
 
-🎓 I am currently pursuing a **Bachelor of Computer Science (Bioinformatics) with Honours** at Universiti Teknologi Malaysia (UTM).
+🎓 I'm curious and creative bioinformatics student who enjoys solving real-world problems, whether it's through biological data analysis or innovative tech projects.
 
-🔬 I'm passionate about the intersection of **biology, computing, and design** — using technology to make meaningful contributions in healthcare, bioinformatics, and education.
+🔬 I blend science, software, and storytelling from genome sequences to mental health gamification.
 
 ✨ I enjoy solving problems through **code**, designing intuitive **user experiences**, and building projects that combine **logic and creativity**.
 
@@ -48,6 +48,18 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
+**Languages & Scripting:**  
+`Python` | `R` | `JavaScript` | `HTML/CSS` | `SQL` | `Java`
+
+**Bioinformatics & Data Tools:**  
+`Biopython` | `BLAST` | `NCBI tools` | `Clustal Omega` | `RStudio` | `Jupyter Notebooks`
+
+**Web & App Dev:**  
+`React` | `Firebase` | `Figma` | `PHP` | `Arduino`
+
+**Soft Skills:**  
+Teamwork 💬 | Research 🧠 | UX Thinking 💡 | Communication 🗣️
 
 ---
 
